@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://ftc13184-sk.github.io/Project/sitemap.xml
